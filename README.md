@@ -32,6 +32,6 @@ The dataset was collected by scraping FBref’s publicly available tables using 
    git clone https://github.com/aliratel1/Fc-Barcelona-Champions-League-24-25-Stats.git
 
 ## Explore the Datasets on Kaggle
-[NoteBook](https://www.kaggle.com/code/aliratel01/datasets-cleaning)
+[Notebook](https://www.kaggle.com/code/aliratel01/datasets-cleaning)
 
 [Dataset](https://www.kaggle.com/datasets/aliratel01/fc-barcelona-champions-league-2425-stats)
