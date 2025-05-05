@@ -1,4 +1,4 @@
-Player,Nation,Pos,Age,90s,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR,Matches
+Player,Nation,Position,Current age,90s Played,Touches,Touches (Def Pen),Touches (Def 3rd),Touches (Mid 3rd),Touches (Att 3rd),Touches (Att Pen),Touches (Live-Ball),Take-Ons Attempted,Successful Take-Ons,Successful Take-On %,Times Tackled During Take-On,Tackled During Take-On Percentage,Carries,Total Carrying Distance,Progressive Carrying Distance,Progressive Carries,Carries into Final Third,Carries into Penalty Area,Miscontrols,Dispossessed,Passes Received,Progressive Passes Rec,Matches
 Jules Koundé,fr FRA,DF,26-173,12.3,937,52,258,485,200,27,937,17,6,35.3,10,58.8,473,1718,851,21,10,4,18,8,640,66,Matches
 Raphinha,br BRA,"FW,MF",28-141,12.2,684,7,41,243,406,65,684,35,14,40.0,20,57.1,381,1976,1112,43,30,24,17,14,513,132,Matches
 Pedri,es ESP,MF,22-160,11.2,921,21,120,557,255,11,921,23,15,65.2,5,21.7,528,2976,1341,26,26,3,14,12,676,32,Matches

@@ -1,4 +1,4 @@
-Player,Nation,Pos,Age,90s,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,G/Sh,G/SoT,Dist,FK,PK,PKatt,xG,npxG,npxG/Sh,G-xG,np:G-xG,Matches
+Player,Nation,Position,Current age,90s Played,Goals,Shots Total,Shots on Target,Shots on Target %,Shots Total/90,Shots on target/90,Goals/Shot,Goals/Shot on Target,Average Shot Distance,Shots from Free Kicks,Penalty Kicks Made,Penalty Kicks Attempted,xG: Expected Goals,npxG: Non-Penalty xG,npxG/Shot,Goals - xG,Non-Penalty Goals - npxG,Matches
 Jules Koundé,fr FRA,DF,26-173,12.3,0,4,2,50.0,0.33,0.16,0.00,0.00,18.9,0,0,0,0.6,0.6,0.15,-0.6,-0.6,Matches
 Raphinha,br BRA,"FW,MF",28-141,12.2,12,49,19,38.8,4.00,1.55,0.24,0.63,20.6,6,0,0,5.7,5.7,0.12,+6.3,+6.3,Matches
 Pedri,es ESP,MF,22-160,11.2,0,5,1,20.0,0.45,0.09,0.00,0.00,21.9,0,0,0,0.4,0.4,0.07,-0.4,-0.4,Matches

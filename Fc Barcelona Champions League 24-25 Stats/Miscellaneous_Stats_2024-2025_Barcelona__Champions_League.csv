@@ -1,4 +1,4 @@
-Player,Nation,Pos,Age,90s,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%,Matches
+Player,Nation,Position,Current age,90s Played,Yellow Cards,Red Cards,Second Yellow Card,Fouls Committed,Fouls Drawn,Offsides,Crosses,Interceptions,Tackles Won,Penalty Kicks Won,Penalty Kicks Conceded,Own Goals,Ball Recoveries,Aerials Won,Aerials Lost,% of Aerials Won,Matches
 Jules Koundé,fr FRA,DF,26-173,12.3,1,0,0,7,8,0,23,7,10,0,0,0,49,13,10,56.5,Matches
 Raphinha,br BRA,"FW,MF",28-141,12.2,0,0,0,5,13,7,57,8,10,0,0,0,27,1,6,14.3,Matches
 Pedri,es ESP,MF,22-160,11.2,0,0,0,2,18,0,14,6,25,0,0,0,71,1,5,16.7,Matches

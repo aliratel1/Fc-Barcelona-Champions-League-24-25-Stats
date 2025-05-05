@@ -1,4 +1,4 @@
-Player,Nation,Pos,Age,MP,Starts,Min,90s,GA,GA90,SoTA,Saves,Save%,W,D,L,CS,CS%,PKatt,PKA,PKsv,PKm,Save%,Matches
+Player,Nation,Position,Current age,Matches Played,Starts,Minutes,90s Played,Goals Against,Goals Against/90,Shots on Target Against,Saves,Save Percentage,Wins,Draws,Losses,Clean Sheets,Clean Sheet Percentage,Penalty Kicks Attempted,Penalty Kicks Allowed,Penalty Kicks Saved,Penalty Kicks Missed,Save% (Penalty Kicks),Matches
 Wojciech Szczęsny,pl POL,GK,35-016,7,7,630,7.0,13,1.86,36,24,69.4,4,2,1,2,28.6,2,2,0,0,0.0,Matches
 Iñaki Peña,es ESP,GK,26-063,5,5,450,5.0,5,1.00,8,3,50.0,5,0,0,2,40.0,1,1,0,0,0.0,Matches
 Marc-André ter Stegen,de GER,GK,33-004,1,1,90,1.0,2,2.00,8,6,75.0,0,0,1,0,0.0,0,0,0,0,,Matches

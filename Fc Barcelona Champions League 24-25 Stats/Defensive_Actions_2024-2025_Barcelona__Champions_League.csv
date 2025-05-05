@@ -1,4 +1,4 @@
-Player,Nation,Pos,Age,90s,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl,Att,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err,Matches
+Player,Nation,Position,Current age,90s Played,Tackles,Tackles Won,Tackles (Def 3rd),Tackles (Mid 3rd),Tackles (Att 3rd),Dribblers Tackled,Dribbles Challenged,% of Dribblers Tackled,Challenges Lost,Blocks,Shots Blocked,Passes Blocked,Interceptions,Tkl+Int,Clearances,Errors,Matches
 Jules Koundé,fr FRA,DF,26-173,12.3,14,10,8,6,0,9,13,69.2,4,19,6,13,7,21,40,0,Matches
 Raphinha,br BRA,"FW,MF",28-141,12.2,15,10,4,3,8,6,13,46.2,7,9,0,9,8,23,4,0,Matches
 Pedri,es ESP,MF,22-160,11.2,34,25,15,12,7,12,31,38.7,19,23,1,22,6,40,5,0,Matches

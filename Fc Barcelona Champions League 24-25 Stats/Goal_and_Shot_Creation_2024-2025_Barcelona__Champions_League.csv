@@ -1,4 +1,4 @@
-Player,Nation,Pos,Age,90s,SCA,SCA90,PassLive,PassDead,TO,Sh,Fld,Def,GCA,GCA90,PassLive,PassDead,TO,Sh,Fld,Def,Matches
+Player,Nation,Position,Current age,90s Played,Shot-Creating Actions,Shot-Creating Actions/90,SCA (Live-ball Pass),SCA (Dead-ball Pass),SCA (Take-On),SCA (Shot),SCA (Fouls Drawn),SCA (Defensive Action),Goal-Creating Actions,Goal-Creating Actions/90,GCA (Live-ball Pass),GCA (Dead-ball Pass),GCA (Take-On),GCA (Shot),GCA (Fouls Drawn),GCA (Defensive Action),Matches
 Jules Koundé,fr FRA,DF,26-173,12.3,17,1.39,16,0,0,0,1,0,3,0.24,3,0,0,0,0,0,Matches
 Raphinha,br BRA,"FW,MF",28-141,12.2,67,5.47,43,11,5,3,2,3,11,0.90,5,3,1,2,0,0,Matches
 Pedri,es ESP,MF,22-160,11.2,56,5.01,42,9,1,1,3,0,11,0.98,9,1,0,1,0,0,Matches

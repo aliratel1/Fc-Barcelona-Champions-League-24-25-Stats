@@ -1,4 +1,4 @@
-Player,Nation,Pos,Age,90s,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,Matches
+Player,Nation,Position,Current age,90s Played,Passes Attempted,Live-ball Passes,Dead-ball Passes,Passes from Free Kicks,Through Balls,Switches,Crosses,Throw-ins Taken,Corner Kicks,Inswinging Corner Kicks,Outswinging Corner Kicks,Straight Corner Kicks,Passes Completed,Passes Offside,Passes Blocked,Matches
 Jules Koundé,fr FRA,DF,26-173,12.3,816,701,114,21,2,3,23,93,0,0,0,0,707,1,10,Matches
 Raphinha,br BRA,"FW,MF",28-141,12.2,541,472,67,15,3,4,57,10,34,19,4,0,399,2,13,Matches
 Pedri,es ESP,MF,22-160,11.2,816,762,54,31,5,10,14,4,10,4,0,0,730,0,11,Matches

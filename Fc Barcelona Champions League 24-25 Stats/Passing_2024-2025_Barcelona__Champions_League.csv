@@ -1,4 +1,4 @@
-Player,Nation,Pos,Age,90s,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Ast,xAG,xA,A-xAG,KP,1/3,PPA,CrsPA,PrgP,Matches
+Player,Nation,Position,Current age,90s Played,Passes Completed,Passes Attempted,Pass Completion %,Total Passing Distance,Progressive Passing Distance,Passes Completed (Short),Passes Attempted (Short),Pass Completion % (Short),Passes Completed (Medium),Passes Attempted (Medium),Pass Completion % (Medium),Passes Completed (Long),Passes Attempted (Long),Pass Completion % (Long),Assists,xAG: Exp. Assisted Goals,xA: Expected Assists,Assists - xAG,Key Passes,Passes into Final Third,Passes into Penalty Area,Crosses into Penalty Area,Progressive Passes,Matches
 Jules Koundé,fr FRA,DF,26-173,12.3,707,816,86.6,11169,3681,346,369,93.8,308,351,87.7,33,55,60.0,3,2.2,1.1,+0.8,10,39,8,4,47,Matches
 Raphinha,br BRA,"FW,MF",28-141,12.2,399,541,73.8,6799,1652,210,245,85.7,117,165,70.9,56,87,64.4,8,7.2,4.6,+0.8,36,22,24,7,54,Matches
 Pedri,es ESP,MF,22-160,11.2,730,816,89.5,12414,2886,354,376,94.1,282,306,92.2,69,96,71.9,2,1.9,2.6,+0.1,20,93,21,1,103,Matches

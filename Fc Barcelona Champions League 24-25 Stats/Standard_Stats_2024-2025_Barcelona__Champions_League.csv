@@ -1,4 +1,4 @@
-Player,Nation,Pos,Age,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,xG,npxG,xAG,npxG+xAG,PrgC,PrgP,PrgR,Gls,Ast,G+A,G-PK,G+A-PK,xG,xAG,xG+xAG,npxG,npxG+xAG,Matches
+Player,Nation,Position,Current age,Matches Played,Starts,Minutes,90s Played,Goals,Assists,Goals + Assists,Non-Penalty Goals,Penalty Kicks Made,Penalty Kicks Attempted,Yellow Cards,Red Cards,xG: Expected Goals,npxG: Non-Penalty xG,xAG: Exp. Assisted Goals,npxG + xAG,Progressive Carries,Progressive Passes,Progressive Passes Rec,Goals/90,Assists/90,Goals + Assists/90,Non-Penalty Goals/90,Non-Penalty Goals + Assists/90,xG/90,xAG/90,xG + xAG/90,npxG/90,npxG + xAG,Matches
 Jules Koundé,fr FRA,DF,26-173,13,13,"1,104",12.3,0,3,3,0,0,0,1,0,0.6,0.6,2.2,2.8,21,47,66,0.00,0.24,0.24,0.00,0.24,0.05,0.18,0.23,0.05,0.23,Matches
 Raphinha,br BRA,"FW,MF",28-141,13,13,"1,102",12.2,12,8,20,12,0,0,0,0,5.7,5.7,7.2,12.9,43,54,132,0.98,0.65,1.63,0.98,1.63,0.46,0.59,1.05,0.46,1.05,Matches
 Pedri,es ESP,MF,22-160,13,12,"1,005",11.2,0,2,2,0,0,0,0,0,0.4,0.4,1.9,2.3,26,103,32,0.00,0.18,0.18,0.00,0.18,0.03,0.17,0.20,0.03,0.20,Matches
