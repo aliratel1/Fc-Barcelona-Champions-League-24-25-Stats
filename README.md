@@ -10,17 +10,17 @@ The dataset was collected by scraping FBref’s publicly available tables using 
 | Filename | Description |
 |----------|-------------|
 | `Standard_Stats_2024-2025_Barcelona__Champions_League.csv` | Basic stats per player (games, goals, assists, etc.) |
-| `Scores_&_Fixtures_2024-2025_Barcelona__Champions_League.csv` | Match results and dates |
-| `Goalkeeping_2024-2025_Barcelona__Champions_League.csv` | Core goalkeeping stats |
-| `Advanced_Goalkeeping_2024-2025_Barcelona__Champions_League.csv` | Deeper goalkeeping analysis |
-| `Shooting_2024-2025_Barcelona__Champions_League.csv` | Shot types, distance, goals |
-| `Passing_2024-2025_Barcelona__Champions_League.csv` | Total passes, key passes |
-| `Pass_Types_2024-2025_Barcelona__Champions_League.csv` | Breakdown of pass types |
-| `Goal_and_Shot_Creation_2024-2025_Barcelona__Champions_League.csv` | Offensive contribution |
-| `Defensive_Actions_2024-2025_Barcelona__Champions_League.csv` | Tackles, interceptions |
-| `Possession_2024-2025_Barcelona__Champions_League.csv` | Ball retention & dribbles |
-| `Playing_Time_2024-2025_Barcelona__Champions_League.csv` | Minutes, starts, substitutions |
-| `Miscellaneous_Stats_2024-2025_Barcelona__Champions_League.csv` | Other stats like fouls, cards |
+| `Scores_and_Fixtures_2024-2025_Barcelona__Champions_League.csv` | Match results, Dates, Formation, etc. |
+| `Goalkeeping_2024-2025_Barcelona__Champions_League.csv` | Goal against, Saves, Wins, Losses, etc. |
+| `Advanced_Goalkeeping_2024-2025_Barcelona__Champions_League.csv` | Goal against, Post-Shot Expected Goals, Throws Attempted, etc. |
+| `Shooting_2024-2025_Barcelona__Champions_League.csv` | Shot types, Goals, Pentalty kicks, etc. |
+| `Passing_2024-2025_Barcelona__Champions_League.csv` | Total passes, Passes Distance, Key Passes, Assists, Exp Assists, etc. |
+| `Pass_Types_2024-2025_Barcelona__Champions_League.csv` | Pass types, Crosses, Switches, etc. |
+| `Goal_and_Shot_Creation_2024-2025_Barcelona__Champions_League.csv` | Shot-Creating Actions, Goal-Creating Actions, etc. |
+| `Defensive_Actions_2024-2025_Barcelona__Champions_League.csv` | Tackles, Dribbles, etc. |
+| `Possession_2024-2025_Barcelona__Champions_League.csv` | Ball Touches, Carries, Take-ons, etc. |
+| `Playing_Time_2024-2025_Barcelona__Champions_League.csv` | Minutes, Starts, Substitutions, etc. |
+| `Miscellaneous_Stats_2024-2025_Barcelona__Champions_League.csv` | Fouls, Cards, Offsides, Aerials won/lost, etc. |
 | `League_phase,_Champions_League.csv` | Champions League group/phase info |
 
 ---
